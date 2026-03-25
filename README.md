@@ -123,6 +123,11 @@ SchedulerOracle completes the autonomous agent stack:
 
 Together: [ToolOracle](https://tooloracle.io) — 50+ MCP servers, 530+ tools.
 
+
+## Read More
+
+📝 [We Built an AI Agent That Runs 24/7, Never Forgets, and Checks Its Own Work](https://tooloracle.io/blog/autonomous-ai-agent-memory-scheduler-mcp) — How Memory + Scheduler + Decision Preflight work together as one integrated autonomous agent stack. Real tool outputs, no theory.
+
 ## License
 
 MIT
