@@ -1,0 +1,5 @@
+name: SchedulerOracle
+description: Agent task scheduling — 9 tools
+endpoint: https://tooloracle.io/scheduler/mcp/
+transport: streamable-http
+license: MIT
