@@ -1,0 +1,11 @@
+{
+  "schema_version": "v2.0.0",
+  "name": "io.tooloracle/scheduleroracle",
+  "description": "SchedulerOracle \u2014 Agent task scheduling: cron-like execution, recurring tasks. 9 tools.",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://tooloracle.io/scheduler/mcp/"
+    }
+  ]
+}
